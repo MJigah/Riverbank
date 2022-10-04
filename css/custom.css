@@ -1,0 +1,65 @@
+a, a:hover, a:focus{
+	color: #90d1ff;
+}
+
+.ftco-navbar-light.scrolled .ftco-social li a{
+	background: #90d1ff;
+}
+
+.image-display{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top top;
+}
+
+.ftco-daily-verse .daily-verse > h4{
+	color: black;
+}
+
+.services .icon {
+	background: #a2c0da;
+}
+
+.watch-btn{
+	background: #48b3ff;
+	border: 1px solid #48b3ff;
+	color: #fff;
+}
+
+.testimony-wrap .user-img .quote i{
+	color: #48b3ff;
+}
+
+.testimony-section .owl-dots .owl-dot.active, .testimony-section .owl-dots .owl-dot:focus{
+	background: #48b3ff;
+}
+
+.subsermon{
+	background: #90d1ff;
+}
+
+.blog-entry .text .topper{
+	background: #cfebff;
+}
+
+.blog-entry .text .topper span.day, .blog-entry .text .topper span.mos, .blog-entry .text .topper span.yr{
+	color: #48b3ff;
+}
+
+.subscribe-form .form-group input:submit{
+	color: #fff;
+	background: #48b3ff;
+	border-radius: 0px 5px 5px 0px;
+	font-size: 16px
+}
+
+.ftco-footer .ftco-footer-widget ul li a, .ftco-footer .ftco-footer-widget ul li a span{
+	color: #cfebff;
+}
+
+.hero-wrap.hero-wrap-2 .overlay {
+	opacity: .3;
+}
