@@ -1,0 +1,14 @@
+{
+  "name": "riverbank",
+  "version": "1.0.0",
+  "description": "Riverbank Church Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jigah Miracle",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
